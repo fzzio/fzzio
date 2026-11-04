@@ -55,6 +55,13 @@
 - **Spanish:** Native (C2)
 - **English:** Full Professional Proficiency (C1)
 
+### GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fzzio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fzzio&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
 ### Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fzzio/)
