@@ -1,107 +1,61 @@
 # Fabricio Orrala
 
-## 👨‍💻 Senior Software Engineer
+## Engineering Manager | Software Engineer | Entrepreneur
 
-🌎 Ancón, Santa Elena, Ecuador (GMT-5)  
-📧 [fabricio.orrala@gmail.com](mailto:fabricio.orrala@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/fzzio/)
+15+ years building, leading, and scaling software teams. Currently managing a 12-engineer AI platform org at a Series A startup. Hands-on leader contributing code while driving people management, delivery, and technical direction.
 
 ---
 
-## 🚀 About Me
+### What I'm doing now
 
-13+ years of experience as a software engineer, leading and collaborating on diverse full-stack development projects across industries. Proficient in VueJS, NodeJS, Scala, and more, they deliver innovative solutions through agile methodologies, optimize platform performance, and mentor junior engineers. This includes expertise in data processing and web development.
+- **Engineering Manager** at [Jelou AI](https://jelou.ai) — leading 12 engineers across 21 products, driving agentic AI development
+- **Tech Lead** at [Home2Health](https://github.com/home2health) — building a healthcare platform for home care (221 PRs across 3 repos)
+- **Building** [Tachito](https://github.com/fzzio/tachito) — a native Android app to free phone storage, Tinder-style
+- **Building** [Kipu](https://github.com/kipu-labs) — a family finance management platform
+- **Volunteering** — Catholic catechist teaching parents and adults; built a [full-stack attendance system](https://github.com/parroquia-ancon) for the parish
 
-## 🛠️ Skills
+### What I've built
 
-### Front End Development
-
-![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Back End Development
-
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![play-framework](https://img.shields.io/badge/Play_Framework-DC322F?style=for-the-badge&logo=play-framework&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![codeigniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
-![symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-
-### Mobile Development
-
-![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Cloud Development
-
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![digitalocean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-### Data Science
-
-![jupyter-notebooks](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![snowplow](https://img.shields.io/badge/Snowplow-4285F4?style=for-the-badge&logo=snowplow&logoColor=white)
-
-### Databases
-
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Version Control
-
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![gitlab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Containers
-![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Message brokers
-![rabbitmq](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Tools & Platforms
-![sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![configcat](https://img.shields.io/badge/ConfigCat-5E6A71?style=for-the-badge&logo=configcat&logoColor=white)
-
-### Agile Tools
-![trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+- **7-microservice architecture** from scratch at [Stam](https://github.com/stam-labs) (176 PRs) — sports marketplace
+- **20+ web apps and 5+ mobile apps** at Caja Negra — software company I founded and led (10+ team)
+- **377 commits** across backend (Scala) and frontend at Torre Labs — globally distributed team, millions of users
+- **AI model evaluation** (RLHF/SFT) at Invisible Technologies — for major tech companies
+- **[Archivist](https://github.com/fzzio/archivist)** — CLI tool for LLM context windows
+- **[Reactiva](https://github.com/fzzio/reactiva)** — motion-tracking rehabilitation system (OpenCV, Kinect)
 
 ---
 
-## 🎓 Education
+### Tech
 
-**Bachelor of Computer Science, Multimedia Systems**  
-[*Escuela Superior Politécnica del Litoral (ESPOL)*](https://www.espol.edu.ec/en)  
-*Guayaquil, Ecuador*  
-*May 2006 - Jul 2014*
+**Leadership:** People Management (11+ reports) · Hiring · 1:1s · Performance Reviews · OKRs · Sprint Planning · Incident Response · Post-mortems · RFCs/ADRs
+
+**AI & ML:** Claude Code · CodeRabbit · MCP · OpenAI API · Conversational AI · RLHF/SFT · Feature Flags · A/B Testing
+
+**Frontend:** Vue.js (Nuxt) · React (Next.js) · TypeScript · TailwindCSS · shadcn/ui
+
+**Backend:** Node.js (Express, NestJS) · Scala · PHP (Laravel, Symfony) · Java · C# · GraphQL
+
+**Database:** PostgreSQL · MySQL · MongoDB · Redis · DynamoDB · Prisma · Drizzle ORM
+
+**Cloud & DevOps:** AWS (EC2, RDS, Lambda, CDK) · Docker · Vercel · CI/CD · Microservices · IaC
+
+**Mobile:** React Native (Expo) · Kotlin (Android)
+
+**Testing:** Playwright (e2e) · Vitest
 
 ---
 
-## 📚 Courses
+### Certifications
 
-- VueJS: [Frontend with VueJS](https://platzi.com/p/fzzio/learning-path/9-vue/diploma/detalle/)
-- NodeJS: [Backend with Node.js: API REST w/ Express.js](https://platzi.com/p/fzzio/curso/2485-backend-nodejs/diploma/detalle/)
-- TypeScript: [Advanced Types and Functions](https://platzi.com/p/fzzio/curso/2879-typescript-tipos-avanzados/diploma/detalle/), [Object Oriented Programming and Asynchronism](https://platzi.com/p/fzzio/curso/2880-typescript-poo/diploma/detalle/)
-- React Native: [Intro](https://platzi.com/p/fzzio/curso/2556-react-native/diploma/detalle/), [List and APIs](https://platzi.com/p/fzzio/curso/2557-react-native-listas-apis/diploma/detalle/), [Forms, Storage and Deploy](https://platzi.com/p/fzzio/curso/2558-react-native-formularios-almacenamiento/diploma/detalle/)
+- [AWS Cloud Practitioner (2025)](https://www.credly.com/badges/79691702-9a7c-4acd-bbe3-4fcc38d1811c/public_url)
+- [Career Essentials in Generative AI — Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/4cc896cdd95a6fe5bd01673a1cd4c19c355a75da0da110c14a38cc123e49a5ba)
 
----
+### Languages
 
-## 🔗 Links
+- **Spanish:** Native (C2)
+- **English:** Full Professional Proficiency (C1)
+
+### Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fzzio/)
-[![Torre Genome](https://img.shields.io/badge/Torre%20Genome-cddc39?style=for-the-badge&logo=read-the-docs&logoColor=black)](https://torre.ai/fzzio)
-
-## Languages
-- Spanish: Native speaker
-- English: Professional working proficiency
+[![Torre](https://img.shields.io/badge/Torre-cddc39?style=for-the-badge&logo=read-the-docs&logoColor=black)](https://torre.ai/fzzio)
